@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cooking-Ninja/static/css/main.f1821fe8.css",
+    "main.js": "/Cooking-Ninja/static/js/main.90943477.js",
+    "index.html": "/Cooking-Ninja/index.html",
+    "static/media/mode-icon.svg": "/Cooking-Ninja/static/media/mode-icon.651cf79205ce37eeacd56da0aef056a9.svg",
+    "main.f1821fe8.css.map": "/Cooking-Ninja/static/css/main.f1821fe8.css.map",
+    "main.90943477.js.map": "/Cooking-Ninja/static/js/main.90943477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1821fe8.css",
+    "static/js/main.90943477.js"
+  ]
+}
